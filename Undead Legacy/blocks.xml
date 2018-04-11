@@ -17729,13 +17729,6 @@ kind of free
     <property name="WakeUpSound" value="turret_windup" />
     <property name="FireSound" value="Pistol_Fire" />
     <property name="RequiredPower" value="15" />
-
-
-
-
-
-
-
     <property name="Stacknumber" value="10" />
     <property name="EconomicValue" value="3000" />
     <property name="EconomicBundleSize" value="1" />
@@ -17797,6 +17790,7 @@ kind of free
 
   <block id="1680" name="Admin_concreteRamp">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="concreteRamp"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="ramp"/>
     <property name="Place" value="TowardsPlacerInverted"/>
@@ -17805,16 +17799,12 @@ kind of free
     <property class="RepairItems">
       <property name="paper" value="1" />
     </property>
-    <property class="UpgradeBlock">
-      <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
-      <property name="ItemCount" value="0" />
-      <property name="UpgradeHitCount" value="1" />
-    </property>
+    <drop event="Destroy" count="0"/>
   </block>
 
   <block id="1681" name="Admin_concreteBlock">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="concreteBlock"/>
     <property name="MaxDamage" value="2000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
@@ -17823,7 +17813,7 @@ kind of free
     <!--<property name="BuffsWhenWalkedOn" value="healblock"/>-->
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17840,7 +17830,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17856,7 +17846,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17877,7 +17867,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17896,7 +17886,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17916,7 +17906,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17924,7 +17914,7 @@ kind of free
 
   <block id="1687" name="Admin_concreteArch">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="Admin_ConcreteArch"/>
+    <property name="CustomIcon" value="ConcreteArch"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="Arch"/>
     <property name="Place" value="TowardsPlacerInverted"/>
@@ -17935,7 +17925,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17955,7 +17945,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17967,13 +17957,13 @@ kind of free
     <property name="Shape" value="New"/>
     <property name="Model" value="pyramid"/>
     <property name="MaxDamage" value="2000000000" />
-	  <property name="CreativeMode" value="Dev"/>
+    <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="6" />
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -17990,7 +17980,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18007,7 +17997,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18046,7 +18036,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18066,7 +18056,7 @@ kind of free
     <property name="CreativeMode" value="Dev"/>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18083,7 +18073,7 @@ kind of free
     <property name="CreativeMode" value="Dev"/>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18101,7 +18091,7 @@ kind of free
     </property>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18118,7 +18108,7 @@ kind of free
     <!--<property name="BuffsWhenWalkedOn" value="infection2"/>-->
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
@@ -18134,7 +18124,7 @@ kind of free
     <!--<property name="BuffsWhenWalkedOn" value="shockedBuff"/>-->
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
-      <property name="Item" value="ulmGunDiggerDev" />
+      <property name="Item" value="gunSuperDigger" />
       <property name="ItemCount" value="0" />
       <property name="UpgradeHitCount" value="1" />
     </property>
