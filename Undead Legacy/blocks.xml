@@ -17790,11 +17790,11 @@ kind of free
 
   <block id="1680" name="Admin_concreteRamp">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="concreteRamp"/>
+    <property name="CustomIcon" value="rConcreteRamp"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="ramp"/>
     <property name="Place" value="TowardsPlacerInverted"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17804,8 +17804,8 @@ kind of free
 
   <block id="1681" name="Admin_concreteBlock">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="concreteBlock"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="CustomIcon" value="rConcreteBlock"/>
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17821,9 +17821,10 @@ kind of free
 
   <block id="1682" name="Admin_concreteCNRRound">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcreteCNRRound"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="corner_round1m"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17838,8 +17839,9 @@ kind of free
 
   <block id="1683" name="Admin_concreteCNRRoundTop">
     <property name="Extends" value="concreteCNRRound"/>
+    <property name="CustomIcon" value="rConcreteCNRRoundTop"/>
     <property name="Model" value="corner_rounded"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17854,13 +17856,14 @@ kind of free
 
   <block id="1684" name="Admin_concreteStairs25">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcreteStairs25"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="StairsFilledVerticalUV"/>
     <property name="Place" value="TowardsPlacerInverted"/>
     <property name="UseGlobalUV" value="Global"/>
     <property name="Stairs"/>
     <property name="ImposterExchange" value="imposterRamp" param1="2"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17875,11 +17878,12 @@ kind of free
 
   <block id="1685" name="Admin_concretePillar100">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcretePillar100"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="Pole1m"/>
     <property name="UseGlobalUV" value="Local"/>
     <property name="ImposterExchange" value="imposterDontBlockBlock" param1="2"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17894,12 +17898,13 @@ kind of free
 
   <block id="1686" name="Admin_concretePillar50">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcretePillar50"/>
     <property name="Shape" value="New"/>
     <property name="LightOpacity" value="0"/>
     <property name="Model" value="Pole0.5m"/>
     <property name="UseGlobalUV" value="Local"/>
     <property name="ImposterDontBlock" value="true"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17914,11 +17919,11 @@ kind of free
 
   <block id="1687" name="Admin_concreteArch">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="ConcreteArch"/>
+    <property name="CustomIcon" value="rConcreteArch"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="Arch"/>
     <property name="Place" value="TowardsPlacerInverted"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="6" />
@@ -17933,12 +17938,12 @@ kind of free
 
   <block id="1688" name="Admin_concreteStairs25CornerCNR">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="Admin_ConcreteStairs25CornerCNR"/>
+    <property name="CustomIcon" value="rConcreteStairs25CornerCNR"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="stairs_filled_corner"/>
     <property name="Place" value="TowardsPlacerInverted"/>
     <property name="ImposterExchange" value="imposterCNRFull" param1="2"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17953,10 +17958,10 @@ kind of free
 
   <block id="1689" name="Admin_concretePyramid">
     <property name="Extends" value="concreteMaster"/>
-    <property name="CustomIcon" value="Admin_ConcretePyramid"/>
+    <property name="CustomIcon" value="rConcretePyramid"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="pyramid"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="6" />
@@ -17971,9 +17976,10 @@ kind of free
 
   <block id="1664" name="Admin_concreteCNRInside">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcreteCNRInside"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="ramp_inside_corner"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -17988,9 +17994,10 @@ kind of free
 
   <block id="1665" name="Admin_concreteCNRFull">
     <property name="Extends" value="concreteMaster"/>
+    <property name="CustomIcon" value="rConcreteCNRFull"/>
     <property name="Shape" value="New"/>
     <property name="Model" value="ramp_outside_corner"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -18005,6 +18012,7 @@ kind of free
 
   <block id="1667" name="Admin_houseFrontDoor">
     <property name="DescriptionKey" value="doorGroupDesc"/>
+    <property name="CustomIcon" value="houseFrontDoor2_v1"/>
     <property name="Class" value="DoorSecure"/>
     <property name="Material" value="wood_regular"/>
     <property name="PassThroughDamage" value="true"/>
@@ -18029,7 +18037,7 @@ kind of free
     <property class="RepairItems">
       <property name="paper" value="1"/>
     </property>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1"/>
@@ -18048,11 +18056,12 @@ kind of free
 
   <block id="1670" name="Admin_glassBulletproofPlateCurved">
     <property name="Extends" value="glassBulletproofMaster"/>
+    <property name="CustomIcon" value="glassBulletproofPlateCurved"/>
     <property name="Model" value="plate_corner_round_1m"/>
     <property class="RepairItems">
       <property name="paper" value="1"/>
     </property>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
@@ -18064,12 +18073,13 @@ kind of free
 
   <block id="1671" name="Admin_glassBulletproofPlate">
     <property name="Extends" value="glassBulletproofMaster"/>
+    <property name="CustomIcon" value="glassBulletproofPlate"/>
     <property name="Model" value="plate_glass"/>
     <property name="Place" value="TowardsPlacerInverted"/>
     <property class="RepairItems">
       <property name="paper" value="1"/>
     </property>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
@@ -18084,7 +18094,7 @@ kind of free
     <property name="Material" value="MrConcrete"/>
     <property name="Model" value="iron_bars"/>
     <property name="Place" value="TowardsPlacerInverted"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -18099,8 +18109,9 @@ kind of free
 
   <block id="1694" name="Admin_adhesiveTrap">
     <property name="Extends" value="radiated"/>
+    <property name="CustomIcon" value ="mouseTrap"/>
     <property name="Material" value="MbarbedFence" />
-    <property name="MaxDamage" value="2000000000" />
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
@@ -18116,12 +18127,13 @@ kind of free
 
   <block id="1695" name="Admin_shockBlock">
     <property name="Extends" value="concreteMaster"/>
-    <property name="MaxDamage" value="2000000000" />
+    <property name="CustomIcon" value="electricwirerelay"/>
+    <property name="MaxDamage" value="1000000000" />
     <property name="CreativeMode" value="Dev"/>
     <property class="RepairItems">
       <property name="paper" value="1" />
     </property>
-    <!--<property name="BuffsWhenWalkedOn" value="shockedBuff"/>-->
+    <property name="BuffsWhenWalkedOn" value="shockedBuff"/>
     <property class="UpgradeBlock">
       <property name="ToBlock" value="woodFrameBlock" />
       <property name="Item" value="gunSuperDigger" />

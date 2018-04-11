@@ -970,89 +970,89 @@ NOT the TextureNumber.
     <property name="CreativeMode" value="Dev"/>
   </block>
 
-<block id="74" name="Admin_StoneOre">
-	<property name="Extends" value="stone" />
-	<property name="CustomIcon" value="Admin_StoneOre" />
-  <property name="MaxDamage" value="2000000000" />
-	<property name="DowngradeBlock" value="Admin_StoneOreUpgrader" />
-</block>
+  <block id="74" name="Admin_StoneOre">
+    <property name="Extends" value="stone" />
+    <property name="CustomIcon" value="Admin_StoneOre" />
+    <property name="MaxDamage" value="2000000000" />
+    <property name="DowngradeBlock" value="Admin_StoneOreUpgrader" />
+  </block>
 
-<block id="75" name="Admin_StoneOreUpgrader">
-	<property name="Extends" value="asphalt" />
-  <property name="CustomIcon" value="DonotUse" />
-	<property name="Class" value="PlantGrowing" />
-	<property name="PlantGrowing.FertileLevel" value="0" />
-	<property name="PlantGrowing.Next" value="Admin_StoneOre" />
-	<property name="PlantGrowing.GrowthRate" value="0" />
-	<property name="PlantGrowing.LightLevelStay" value="0" />
-	<property name="PlantGrowing.IsRandom" value="false" />
-	<property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
-	<property name="DowngradeBlock" value="Admin_StoneOreUpgrader" />
-</block>
+  <block id="75" name="Admin_StoneOreUpgrader">
+    <property name="Extends" value="asphalt" />
+    <property name="CustomIcon" value="DonotUse" />
+    <property name="Class" value="PlantGrowing" />
+    <property name="PlantGrowing.FertileLevel" value="0" />
+    <property name="PlantGrowing.Next" value="Admin_StoneOre" />
+    <property name="PlantGrowing.GrowthRate" value="0" />
+    <property name="PlantGrowing.LightLevelStay" value="0" />
+    <property name="PlantGrowing.IsRandom" value="false" />
+    <property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
+    <property name="DowngradeBlock" value="Admin_StoneOreUpgrader" />
+  </block>
 
-<block id="76" name="Admin_ClayOre">	
-	<property name="Extends" value="clay" />
-	<property name="CustomIcon" value="Admin_ClayOre"/>
-  <property name="MaxDamage" value="2000000000" />
-  <property name="DowngradeBlock" value="Admin_ClayOreUpgrader" />
-</block>
+  <block id="76" name="Admin_ClayOre">
+    <property name="Extends" value="clay" />
+    <property name="CustomIcon" value="Admin_ClayOre"/>
+    <property name="MaxDamage" value="2000000000" />
+    <property name="DowngradeBlock" value="Admin_ClayOreUpgrader" />
+  </block>
 
-<block id="77" name="Admin_ClayOreUpgrader">	
-	<property name="Extends" value="asphalt" />
-	<property name="CustomIcon" value="DonotUse" />
-	<property name="Class" value="PlantGrowing" />
-	<property name="PlantGrowing.FertileLevel" value="0" />
-	<property name="PlantGrowing.Next" value="Admin_ClayOre" />
-	<property name="PlantGrowing.GrowthRate" value="0" />
-	<property name="PlantGrowing.LightLevelStay" value="0" />
-	<property name="PlantGrowing.IsRandom" value="false" />
-	<property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
-	<property name="DowngradeBlock" value="Admin_ClayOreUpgrader" />
-	</block>
+  <block id="77" name="Admin_ClayOreUpgrader">
+    <property name="Extends" value="asphalt" />
+    <property name="CustomIcon" value="DonotUse" />
+    <property name="Class" value="PlantGrowing" />
+    <property name="PlantGrowing.FertileLevel" value="0" />
+    <property name="PlantGrowing.Next" value="Admin_ClayOre" />
+    <property name="PlantGrowing.GrowthRate" value="0" />
+    <property name="PlantGrowing.LightLevelStay" value="0" />
+    <property name="PlantGrowing.IsRandom" value="false" />
+    <property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
+    <property name="DowngradeBlock" value="Admin_ClayOreUpgrader" />
+  </block>
 
-<block id="78" name="Admin_WoodOre">
-	<property name="Extends" value="woodDebris" />
-	<property name="CustomIcon" value="Admin_WoodOre" />
-  <property name="MaxDamage" value="2000000000" />
-  <property name="DowngradeBlock" value="Admin_WoodOreUpgrader" />
-</block>
+  <block id="78" name="Admin_WoodOre">
+    <property name="Extends" value="woodDebris" />
+    <property name="CustomIcon" value="Admin_WoodOre" />
+    <property name="MaxDamage" value="2000000000" />
+    <property name="DowngradeBlock" value="Admin_WoodOreUpgrader" />
+  </block>
 
-<block id="79" name="Admin_WoodOreUpgrader">
-	<property name="Extends" value="asphalt" />
-  <property name="CustomIcon" value="DonotUse" />
-	<property name="Class" value="PlantGrowing" />
-	<property name="PlantGrowing.FertileLevel" value="0" />
-	<property name="PlantGrowing.Next" value="Admin_WoodOre" />
-	<property name="PlantGrowing.GrowthRate" value="0" />
-	<property name="PlantGrowing.LightLevelStay" value="0" />
-	<property name="PlantGrowing.IsRandom" value="false" />
-	<property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
-	<property name="DowngradeBlock" value="Admin_WoodOreUpgrader" />
-</block>
+  <block id="79" name="Admin_WoodOreUpgrader">
+    <property name="Extends" value="asphalt" />
+    <property name="CustomIcon" value="DonotUse" />
+    <property name="Class" value="PlantGrowing" />
+    <property name="PlantGrowing.FertileLevel" value="0" />
+    <property name="PlantGrowing.Next" value="Admin_WoodOre" />
+    <property name="PlantGrowing.GrowthRate" value="0" />
+    <property name="PlantGrowing.LightLevelStay" value="0" />
+    <property name="PlantGrowing.IsRandom" value="false" />
+    <property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
+    <property name="DowngradeBlock" value="Admin_WoodOreUpgrader" />
+  </block>
 
-<block id="81" name="Admin_DirtOre">
-  <property name="Extends" value="dirt" />
-  <property name="CustomIcon" value="Admin_DirtOre" />
-  <property name="MaxDamage" value="2000000000" />
-  <drop event="Harvest" name="dirt" count="20" />
-  <drop event="Harvest" name="yuccaFibers" count="3" />
-  <drop event="Harvest" name="goldenrodPlant" count="1" prob="0.03" />
-  <drop event="Harvest" name="chrysanthemumPlant" count="1" prob="0.04"/>
-  <property name="DowngradeBlock" value="Admin_DirtOreUpgrader" />
-</block>
+  <block id="81" name="Admin_DirtOre">
+    <property name="Extends" value="dirt" />
+    <property name="CustomIcon" value="Admin_DirtOre" />
+    <property name="MaxDamage" value="2000000000" />
+    <drop event="Harvest" name="dirt" count="20" />
+    <drop event="Harvest" name="yuccaFibers" count="3" />
+    <drop event="Harvest" name="goldenrodPlant" count="1" prob="0.03" />
+    <drop event="Harvest" name="chrysanthemumPlant" count="1" prob="0.04"/>
+    <property name="DowngradeBlock" value="Admin_DirtOreUpgrader" />
+  </block>
 
-<block id="82" name="Admin_DirtOreUpgrader">
-  <property name="Extends" value="asphalt" />
-  <property name="CustomIcon" value="DonotUse" />
-  <property name="Class" value="PlantGrowing" />
-  <property name="PlantGrowing.FertileLevel" value="0" />
-  <property name="PlantGrowing.Next" value="Admin_DirtOre" />
-  <property name="PlantGrowing.GrowthRate" value="0" />
-  <property name="PlantGrowing.LightLevelStay" value="0" />
-  <property name="PlantGrowing.IsRandom" value="false" />
-  <property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
-  <property name="DowngradeBlock" value="Admin_DirtOreUpgrader" />
-</block>
+  <block id="82" name="Admin_DirtOreUpgrader">
+    <property name="Extends" value="asphalt" />
+    <property name="CustomIcon" value="DonotUse" />
+    <property name="Class" value="PlantGrowing" />
+    <property name="PlantGrowing.FertileLevel" value="0" />
+    <property name="PlantGrowing.Next" value="Admin_DirtOre" />
+    <property name="PlantGrowing.GrowthRate" value="0" />
+    <property name="PlantGrowing.LightLevelStay" value="0" />
+    <property name="PlantGrowing.IsRandom" value="false" />
+    <property name="PlantGrowing.GrowIfAnythinOnTop" value="true" />
+    <property name="DowngradeBlock" value="Admin_DirtOreUpgrader" />
+  </block>
 
   <!-- DO NOT DEFINE TERRAIN BLOCKS OVER ID 127. Just don't. -->
 
@@ -3472,14 +3472,14 @@ group desc for stuff like metal siding
     <drop event="Destroy" name="scrapIron" count="10" prob="1"/>
     <drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
     <property name="EconomicValue" value="360"/>
-      <!-- disassemble value 355 -->
-      <property class="UpgradeBlock">
-        <property name="ToBlock" value="workstationOven" />
-        <property name="Item" value="ovenKit" />
-        <property name="ItemCount" value="1" />
-        <property name="UpgradeHitCount" value="15" />
-      </property>
-    </block>
+    <!-- disassemble value 355 -->
+    <property class="UpgradeBlock">
+      <property name="ToBlock" value="workstationOven" />
+      <property name="Item" value="ovenKit" />
+      <property name="ItemCount" value="1" />
+      <property name="UpgradeHitCount" value="15" />
+    </property>
+  </block>
 
   <block id="312" name="oldChair">
     <property name="Material" value="wood_weak"/>
@@ -5094,7 +5094,7 @@ group desc for stuff like metal siding
     <property name="TraderID" value="22" />
     <property name="Buff" value="shockedBuff"/>
   </block>
-  
+
   <block id="441" name="workingTrader">
     <property name="Class" value="VendingMachine"/>
     <property name="DescriptionKey" value="customTraderDesc"/>
@@ -5136,7 +5136,7 @@ group desc for stuff like metal siding
     <property name="PlantGrowing.FertileLevel" value="0" />
     <property name="PlantGrowing.IsRandom" value="false" />
   </block>
-  
+
   <block id="444" name="boulderairstage">
     <property name="CustomIcon" value="AdminDonotUse" />
     <property name="Class" value="PlantGrowing" />
@@ -14492,7 +14492,7 @@ kind of free
     </property>
     <property name="CustomUpgradeSound" value="place_block_wood"/>
     <property name="DowngradeBlock" value="window03WoodBroke1"/>
-	<drop event="Destroy" name="brokenGlass" count="1"/>
+    <drop event="Destroy" name="brokenGlass" count="1"/>
     <property name="Group" value="Building"/>
     <property name="EconomicValue" value="8"/>
     <property name="EconomicBundleSize" value="20"/>
@@ -17175,8 +17175,8 @@ kind of free
     <property name="MaxDamage" value="2000000" />
     <property name="TraderID" value="31" />
   </block>
-  
-  
+
+
 
   <!--SinMod Farming-->
   <block id="1713" name="Fishing Catch">
@@ -17211,7 +17211,7 @@ kind of free
     <drop event="Destroy" name="canEmpty" count="1,5" prob=".1" />
     <property name="Group" value="Fishing" />
   </block>
-  
+
   <block id="1715" name="plantedApple1">
     <property name="Class" value="UpgradeRated" />
     <property name="CustomIcon" value="seedApple"/>

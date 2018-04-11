@@ -1197,7 +1197,7 @@ Mesh files no longer used:
       <property name="Buff_chance" value="0.3,0.8,0.4" />
     </property>
   </item>
-  
+
   <item id="76" name="handZombie">
     <property name="Extends" value="handMaster"/>
     <property name="CreativeMode" value="None"/>
@@ -1390,7 +1390,7 @@ Mesh files no longer used:
       <property name="Buff_chance" value="0.2,0.025,0.5"/>
     </property>
   </item>
-  
+
   <item id="90" name="handZombieFeral">
     <property name="Extends" value="handZombie"/>
     <property name="CreativeMode" value="None"/>
@@ -6778,7 +6778,7 @@ Mesh files no longer used:
     <property name="CraftingSkillGroup" value="craftSkillScience"/>
     <property name="Group" value="Science"/>
   </item>
-  
+
   <!--<item id="669" name="redPill">
 	<property name="Meshfile" value="Items/Health/painkillersPrefab"/>
 	<property name="Material" value="organic"/>
@@ -8740,7 +8740,7 @@ Mesh files no longer used:
     <property name="ActionSkillGroup" value="Construction Tools"/>
     <property name="CraftingSkillGroup" value="Tool Smithing"/>
   </item>
-  
+
   <!-- * * * * * * * * * * quests * * * * * * * * * * -->
 
   <item id="1150" name="questMaster">
@@ -10982,7 +10982,7 @@ Mesh files no longer used:
     </property>
     <property name="EconomicValue" value="1500"/>
   </item>
-  
+
   <item id="1635" name="9mmBulletHP">
     <property name="Extends" value="9mmBullet" />
     <property name="CustomIcon" value="bullet9mmHP"/>
@@ -11359,7 +11359,7 @@ Mesh files no longer used:
       <property name="Overlay0" value="gear_kevlar_helmet" />
     </property>
   </item>
-  
+
   <!--SinMod Steel Armor Add-on-->
   <item id="1708" name="steelBoots">
     <property name="Extends" value="ironBoots" />
@@ -13115,7 +13115,7 @@ Mesh files no longer used:
       <property name="ToolCategory.Skinner" value="1" />
     </property>
   </item>
-  
+
   <!--SinMod Seeds-->
   <item id="1973" name="seedPack">
     <property name="DescriptionKey" value="seedPackDesc"/>
@@ -13140,7 +13140,7 @@ Mesh files no longer used:
     <property name="FuelValue" value="5" />
     <property name="Group" value="Resources" />
   </item>
-  
+
   <item id="1975" name="waterFilter">
     <property name="DescriptionKey" value="waterFilterDesc"/>
     <property name="Meshfile" value="Items/Misc/sackPrefab" />
@@ -13447,7 +13447,7 @@ Mesh files no longer used:
       <property name="Skills_to_gain" value="Blade Weapons,Archery" />
     </property>
   </item>
-  
+
   <!--SinMod Colored Armor -->
   <!--Leather Red -->
   <item id="2102" name="leatherHoodRed">
@@ -15376,7 +15376,7 @@ Mesh files no longer used:
       <property name="QuestGiven" value="challenge_medic1" />
     </property>
   </item>
-  
+
   <!-- Modded Quests -->
   <item id="2620" name="challengeBigBadBosses">
     <property name="Extends" value="challengeQuestMaster" />
@@ -15450,7 +15450,7 @@ Mesh files no longer used:
       <property name="QuestGiven" value="challenge_walmart" />
     </property>
   </item>
-  
+
   <!--SinMod Collection Quests-->
   <item id="2638" name="challengeWedding">
     <property name="Extends" value="challengeQuestMaster" />
@@ -15808,7 +15808,7 @@ Mesh files no longer used:
     <property name="FuelValue" value="20" />
     <property name="Group" value="Champion" />
   </item>
-  
+
   <item id="3101" name="UltimateChampTier1">
     <property name="DescriptionKey" value="UltimateChampTier1Desc"/>
     <property name="CustomIcon" value="UCT1" />
@@ -15912,7 +15912,7 @@ Mesh files no longer used:
     <property name="FuelValue" value="20" />
     <property name="Group" value="Champion" />
   </item>
-  
+
   <item id="3110" name="AK47Voucher">
     <property name="DescriptionKey" value="AK47VoucherDesc"/>
     <property name="CustomIcon" value="UCAK" />
