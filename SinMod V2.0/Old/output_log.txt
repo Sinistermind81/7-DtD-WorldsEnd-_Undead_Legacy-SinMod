@@ -1,0 +1,1696 @@
+Initialize engine version: 5.3.6p8 (c04dd374db98)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\AmplifyMotion.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\AmplifyMotion.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\libnoise.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\libnoise.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\LogLibrary.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\LogLibrary.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\NSpeex.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\NSpeex.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\enum2int.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\enum2int.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\NCalc.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\NCalc.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\CodeProfilerRuntime.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\CodeProfilerRuntime.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\EasyAntiCheat.Server.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\EasyAntiCheat.Server.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.713098 ms
+HDR Render Texture not supported, disabling HDR on reflection probe.
+ 
+(Filename:  Line: 257)
+
+2017-12-13T22:50:40 0.024 INF Awake
+Unable to add 'aloeLotion' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'aloeLotionDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'aloeLotionTooltip' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'speedPill' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'speedPillDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'speedBoost' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'speedBoostDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'speedBoostTooltip' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classHunterDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classHunterDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classBuilderDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classBuilderDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classRiflemanDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classVeteranDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classVeteranDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classBruiserDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classGunmanDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classMinerDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classMinerDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classSurvivorDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classSurvivorDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classMedicDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classMedicDesc2' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'classWildcardDesc' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassMiner' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassHunter' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassBuilder' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassRifleman' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassGunman' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassVeteran' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassSurvivor' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassBruiser' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unable to add 'challengeClassMedic' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-12-13T22:50:40 0.076 INF Version: Alpha 16.4 (b8) Compatibility Version: Alpha 16.4, Build: Windows 64 Bit
+2017-12-13T22:50:40 0.076 INF System information:
+2017-12-13T22:50:40 0.076 INF    OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+2017-12-13T22:50:40 0.077 INF    CPU: Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz (cores: 12)
+2017-12-13T22:50:40 0.077 INF    RAM: 65424 MB
+2017-12-13T22:50:40 0.077 INF    GPU: Null Device (128 MB)
+2017-12-13T22:50:40 0.083 INF    Graphics API: NULL 1.0 [1.0] (shader level 2.0)
+2017-12-13T22:50:40 0.090 INF Last played version: Alpha 16.4
+2017-12-13T22:50:40 0.090 INF Local UTC offset: -6 hours
+2017-12-13T22:50:40 0.091 INF Command line arguments: C:\bluefang\servers\server16371\7DaysToDieServer.exe -quit -batchmode -nographics -ServerMaxPlayerCount=16 -ServerName=!Worlds End PvE A16.4  [SinMod] -GameName=TurkeyDay2017 -GameWorld=Random Gen -ServerPort=22710 -ControlPanelEnabled=true -ControlPanelPort=22720 -ControlPanelPassword=78cougar -TelnetEnabled=true -TelnetPort=22730 -TelnetPassword=78cougar -ServerDescription=End of the world at is best!!! -ServerWebsiteURL=www.worldsendpve.com -SaveGameFolder=saves -ServerAdminSlots=0 -configfile=config\serverconfig.xml -dedicated
+2017-12-13T22:50:40 0.094 INF Parsing server configfile: config\serverconfig.xml
+2017-12-13T22:50:40 0.123 INF Parsing server configfile successfully completed
+2017-12-13T22:50:40 0.123 INF Starting dedicated server level=Random Gen game name=TurkeyDay2017
+2017-12-13T22:50:40 0.124 INF Maximum allowed players: 16
+2017-12-13T22:50:40 0.124 INF Game mode: GameModeSurvivalMP
+2017-12-13T22:50:40 0.124 INF Dedicated server only build
+2017-12-13T22:50:40 0.126 INF Not running in Big Picture Mode, no on-screen keyboard available
+2017-12-13T22:50:40 0.127 INF Starting PlayerInputManager...
+2017-12-13T22:50:40 0.142 INF InControl (version 1.6.15 build 9076, native module = False, XInput = False)
+2017-12-13T22:50:40 0.210 INF Starting UserProfileManager...
+2017-12-13T22:50:40 0.325 INF Texture quality is set to 3
+2017-12-13T22:50:40 0.402 INF [NET] Disabling protocol: UNET
+2017-12-13T22:50:40 0.408 INF NET: InitCallbacks
+2017-12-13T22:50:40 0.409 INF [MODS] Start loading
+2017-12-13T22:50:40 0.410 INF [MODS] Trying to load from Allocs_CommandExtensions
+Non platform assembly: C:\bluefang\servers\server16371\Mods\Allocs_CommandExtensions\AllocsCommands.dll (this message is harmless)
+2017-12-13T22:50:40 0.420 INF [MODS] Loaded Mod: Allocs command extensions (14)
+2017-12-13T22:50:40 0.420 INF [MODS] Trying to load from Allocs_CommonFunc
+Non platform assembly: C:\bluefang\servers\server16371\Mods\Allocs_CommonFunc\7dtd-server-fixes.dll (this message is harmless)
+2017-12-13T22:50:40 0.421 INF [MODS] Found ModAPI, creating instance
+2017-12-13T22:50:40 0.421 INF [MODS] Loaded Mod: Allocs server fixes (16)
+2017-12-13T22:50:40 0.422 INF [MODS] Trying to load from CoppisAdditions
+Non platform assembly: C:\bluefang\servers\server16371\Mods\CoppisAdditions\CoppisAdditions.dll (this message is harmless)
+2017-12-13T22:50:40 0.423 INF [MODS] Found ModAPI, creating instance
+2017-12-13T22:50:40 0.423 INF [MODS] Loaded Mod: Coppis command additions (3.5)
+2017-12-13T22:50:40 0.423 INF [MODS] Trying to load from SinModIcons
+2017-12-13T22:50:40 0.423 INF [MODS] Loaded Mod: SinMod Icons (A16v1)
+2017-12-13T22:50:40 0.423 INF [MODS] Loading done
+2017-12-13T22:50:40 0.432 INF Loading permissions file at 'saves/serveradmin.xml'
+2017-12-13T22:50:40 0.456 INF Loading permissions file done.
+2017-12-13T22:50:41 1.178 INF Reloading serveradmin.xml
+2017-12-13T22:50:41 1.178 INF Loading permissions file at 'saves/serveradmin.xml'
+2017-12-13T22:50:41 1.184 INF Loading permissions file done.
+UMA Overlay loading took 647 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UMA Slot loading took 2 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HDR Render Texture not supported, disabling HDR on reflection probe.
+ 
+(Filename:  Line: 257)
+
+HDR Render Texture not supported, disabling HDR on reflection probe.
+ 
+(Filename:  Line: 257)
+
+WARNING: Shader Unsupported: 'Suimono/effect_refractDroplets' - Setting to default shader.
+WARNING: Shader Unsupported: 'Suimono/effect_refractionViewDepth' - Setting to default shader.
+WARNING: Shader Unsupported: 'Code/GoggleEyed' - Setting to default shader.
+2017-12-13T22:50:47 7.637 INF WorldStaticData.Init() needed 6.159s
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\System.Configuration.dll (this message is harmless)
+2017-12-13T22:50:47 7.661 INF Started Telnet on 22730
+2017-12-13T22:50:47 7.686 INF Awake done
+2017-12-13T22:50:48 7.830 INF Atlas reset took 98 ms
+2017-12-13T22:50:48 7.830 INF Atlas load took 142 ms
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library C:/bluefang/servers/server16371/7DaysToDieServer_Data/Mono/libc
+Fallback handler could not load library C:/bluefang/servers/server16371/7DaysToDieServer_Data/Mono/.\libc
+Fallback handler could not load library C:/bluefang/servers/server16371/7DaysToDieServer_Data/Mono/libc
+2017-12-13T22:50:48 7.938 INF NET: Starting server protocols
+2017-12-13T22:50:48 7.960 INF NET: Unity NW server started
+2017-12-13T22:50:48 7.960 INF [Steamworks.NET] NET: Server started
+2017-12-13T22:50:48 7.961 INF StartGame
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: c54 -> priority: 1 
+  Thread -> id: 1994 -> priority: 1 
+  Thread -> id: a8 -> priority: 1 
+2017-12-13T22:50:48 8.194 INF Atlas reset took 76 ms
+2017-12-13T22:50:48 8.476 INF Atlas resized to fit more icons. Old 1561 icons, 4096x4096, now 1867 icons, 8192x4096
+2017-12-13T22:50:49 8.899 INF Adding 307 sprites to atlas took 829 ms
+2017-12-13T22:50:49 8.958 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BlockDurabilityModifier = 100
+GamePref.BloodMoonEnemyCount = 8
+GamePref.BuildCreate = False
+GamePref.ConnectToServerIP = 127.0.0.1
+GamePref.ConnectToServerPort = 26900
+GamePref.ControlPanelEnabled = True
+GamePref.ControlPanelPort = 22720
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 60
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 1
+GamePref.DropOnQuit = 0
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = True
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = True
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 4
+GamePref.GameGuidClient = 
+GamePref.GameMode = GameModeSurvivalMP
+GamePref.GameName = TurkeyDay2017
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 16.4
+GamePref.GameWorld = Random Gen
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimDeadZone = 100
+GamePref.LandClaimDecayMode = 2
+GamePref.LandClaimExpiryTime = 14
+GamePref.LandClaimOfflineDurabilityModifier = 0
+GamePref.LandClaimOnlineDurabilityModifier = 0
+GamePref.LandClaimSize = 51
+GamePref.LastGameResetRevision = 0
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 14
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 50
+GamePref.MaxUncoveredMapChunksPerPlayer = 131072
+GamePref.NoGraphicsMode = True
+GamePref.OptionsAA = 0
+GamePref.OptionsAllowController = False
+GamePref.OptionsAmbientVolumeLevel = 0.5
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.75
+GamePref.OptionsBloom = False
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsDeferredLighting = True
+GamePref.OptionsDOF = False
+GamePref.OptionsFieldOfView = 50
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGamma = 0.375
+GamePref.OptionsGraphicsQuality = 1
+GamePref.OptionsGrassDistance = 1
+GamePref.OptionsHudOpacity = 1
+GamePref.OptionsHudSize = 2
+GamePref.OptionsImageEffects = False
+GamePref.OptionsInterfaceSensitivity = 0.75
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsLODDistance = 0.5
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMotionBlur = 0
+GamePref.OptionsMouseSensitivity = 0.5
+GamePref.OptionsMusicVolumeLevel = 0.2
+GamePref.OptionsObjectBlur = False
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsReflectedShadows = False
+GamePref.OptionsReflectionBounces = 0
+GamePref.OptionsReflectionCullList = Default
+GamePref.OptionsReflectionFarClip = 3000
+GamePref.OptionsReflectionQuality = 0
+GamePref.OptionsReflectionRefreshMode = ViaScripting
+GamePref.OptionsReflectionRefreshRate = 0
+GamePref.OptionsReflectionShadowDistance = 60
+GamePref.OptionsReflectionTimeSlicingMode = IndividualFaces
+GamePref.OptionsResolution = 0
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsShadowDistance = 0
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsSSAO = False
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSunShafts = False
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsTextureQuality = 2
+GamePref.OptionsTreeQuality = 1
+GamePref.OptionsUMATextureQuality = 1
+GamePref.OptionsViewDistance = 8
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsVsync = 1
+GamePref.OptionsWaterParticleLimiter = 0
+GamePref.OptionsWaterQuality = 0
+GamePref.PersistentPlayerProfiles = False
+GamePref.PlayerAutologin = False
+GamePref.PlayerId = 
+GamePref.PlayerKillingMode = 0
+GamePref.PlayerName = Player
+GamePref.PlayerSafeZoneHours = 5
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.RebuildMap = False
+GamePref.SaveGameFolder = saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = End of the world at is best!!!
+GamePref.ServerDisabledNetworkProtocols = UNET
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerMaxPlayerCount = 16
+GamePref.ServerName = !Worlds End PvE A16.4  [SinMod]
+GamePref.ServerPort = 22710
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerWebsiteURL = www.worldsendpve.com
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = True
+GamePref.TelnetPort = 22730
+GamePref.ZombiePlayers = True
+GamePref.ZombiesRun = 0
+GameStat.AirDropFrequency = 0
+GameStat.AirDropMarker = False
+GameStat.AnimalCount = 0
+GameStat.BlockDurabilityModifier = 1
+GameStat.BloodMoonEnemyCount = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.Difficulty = 2
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = Normal
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 2
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = False
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 3
+GameStat.LandClaimOfflineDurabilityModifier = 32
+GameStat.LandClaimOnlineDurabilityModifier = 32
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.PlayerKillingMode = KillStrangersOnly
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 1
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.ShowZombieCounter = False
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 20
+GameStat.ZombieHordeMeter = False
+2017-12-13T22:50:49 9.049 INF StartAsServer
+2017-12-13T22:50:49 9.199 INF createWorld: Random Gen, TurkeyDay2017, GameModeSurvivalMP
+2017-12-13T22:50:49 9.307 INF Started thread thread_Regenerating
+2017-12-13T22:50:49 9.307 INF Started thread UA
+2017-12-13T22:50:49 9.398 INF World.Load: Random Gen
+2017-12-13T22:50:49 9.463 INF Started thread thread_Pathfinder
+2017-12-13T22:50:49 9.471 INF SelectionBoxManager.Instance: SelectionBoxes (SelectionBoxManager)
+2017-12-13T22:50:49 9.473 INF Started thread thread_GenerateChunks
+2017-12-13T22:50:49 9.493 INF RWG: Started Hub Cell Data Pregeneration
+2017-12-13T22:50:49 9.496 INF RWG: Finished Hub Cell Data Pregeneration in 3ms
+2017-12-13T22:50:49 9.498 INF Loading and parsing of generator took 24ms
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Setting to default shader.
+2017-12-13T22:50:50 9.968 INF ************************Weather Packages Created FROM BIOMES  :D ************************
+WARNING: Shader Unsupported: 'Skybox/SkyboxFog' - Setting to default shader.
+2017-12-13T22:50:50 10.214 INF createWorld() done
+2017-12-13T22:50:50 10.215 INF Loading players.xml
+2017-12-13T22:50:50 10.314 INF Loaded player
+2017-12-13T22:50:50 10.364 INF Loading vehicles
+2017-12-13T22:50:50 10.465 INF Steam in online mode: Opening steam lobby
+2017-12-13T22:50:50 10.474 INF Setting for 'DropOnDeath' does not match the default (server will go to the modded category): current = 1, default = 0
+2017-12-13T22:50:50 10.475 INF Setting for 'LootRespawnDays' does not match the default (server will go to the modded category): current = 14, default = 30
+2017-12-13T22:50:50 10.479 INF Modified file (server will go to the modded category): Data/Config/archetypes.xml has invalid hash
+2017-12-13T22:50:50 10.483 INF Modified file (server will go to the modded category): Data/Config/blocks.xml has invalid hash
+2017-12-13T22:50:50 10.483 INF Modified file (server will go to the modded category): Data/Config/buffs.xml has invalid hash
+2017-12-13T22:50:50 10.484 INF Modified file (server will go to the modded category): Data/Config/entityclasses.xml has invalid hash
+2017-12-13T22:50:50 10.487 INF Modified file (server will go to the modded category): Data/Config/entitygroups.xml has invalid hash
+2017-12-13T22:50:50 10.490 INF Modified file (server will go to the modded category): Data/Config/items.xml has invalid hash
+2017-12-13T22:50:50 10.491 INF Modified file (server will go to the modded category): Data/Config/loot.xml has invalid hash
+2017-12-13T22:50:50 10.492 INF Modified file (server will go to the modded category): Data/Config/materials.xml has invalid hash
+2017-12-13T22:50:50 10.492 INF Modified file (server will go to the modded category): Data/Config/misc.xml has invalid hash
+2017-12-13T22:50:50 10.493 INF Modified file (server will go to the modded category): Data/Config/progression.xml has invalid hash
+2017-12-13T22:50:50 10.494 INF Modified file (server will go to the modded category): Data/Config/quests.xml has invalid hash
+2017-12-13T22:50:50 10.495 INF Modified file (server will go to the modded category): Data/Config/recipes.xml has invalid hash
+2017-12-13T22:50:50 10.495 INF Modified file (server will go to the modded category): Data/Config/rwgmixer.xml has invalid hash
+2017-12-13T22:50:50 10.497 INF Modified file (server will go to the modded category): Data/Config/sounds.xml has invalid hash
+2017-12-13T22:50:50 10.498 INF Modified file (server will go to the modded category): Data/Config/traders.xml has invalid hash
+2017-12-13T22:50:50 10.499 INF Modified file (server will go to the modded category): Data/Config/xui.xml has invalid hash
+2017-12-13T22:50:50 10.501 INF [EAC] Starting EAC server
+2017-12-13T22:50:50 10.513 INF Starting game
+2017-12-13T22:50:50 10.513 INF [EAC] Log: [SetLogCallback] Procedure: 0000000036A032A0 LogLevel: Debug
+2017-12-13T22:50:50 10.531 INF StartGame done
+Platform assembly: C:\bluefang\servers\server16371\7DaysToDieServer_Data\Managed\Mono.Security.dll (this message is harmless)
+2017-12-13T22:50:51 10.813 INF [Steamworks.NET] GameServer.Init successful
+2017-12-13T22:50:52 11.918 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90112346796410889
+2017-12-13T22:51:01 21.565 INF Telnet connection from: 192.99.200.59:55864
+2017-12-13T22:51:01 21.566 INF Started thread TelnetClientReceive_192.99.200.59:55864
+2017-12-13T22:51:01 21.566 INF Started thread TelnetClientSend_192.99.200.59:55864
+2017-12-13T22:51:02 22.570 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:05 25.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:08 28.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:11 31.570 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:14 34.570 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:16 35.820 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:19 38.870 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:22 41.880 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:25 44.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:28 47.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:31 50.829 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:31 50.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:34 53.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:37 56.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:40 59.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:43 62.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:46 65.829 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:46 65.880 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:49 68.879 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:52 71.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:55 74.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:51:58 77.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:01 80.842 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:01 80.891 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:04 83.891 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:07 86.891 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:10 89.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:13 92.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:16 95.842 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:16 95.892 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:19 98.891 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:22 101.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:25 104.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:28 107.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:31 110.846 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:31 110.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:34 113.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:37 116.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:40 119.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:43 122.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:46 125.846 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:46 125.896 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:49 128.897 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:52 131.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:55 134.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:52:58 137.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:01 140.853 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:01 140.903 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:04 143.853 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:07 146.853 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:10 149.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:13 152.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:16 155.853 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:16 155.903 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:19 158.854 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:22 161.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:25 164.856 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:28 167.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:31 170.857 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:31 170.907 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:34 173.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:37 176.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:40 179.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:43 182.857 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:46 185.857 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:46 185.906 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:49 188.858 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:52 191.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:55 194.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:53:58 197.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:01 200.860 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:01 200.910 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:04 203.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:07 206.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:10 209.861 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:13 212.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:16 215.860 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:16 215.910 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:19 218.860 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:22 221.865 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:25 224.865 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:28 227.866 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:31 230.865 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:31 230.915 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:34 233.865 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:37 236.915 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:40 239.915 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:43 242.916 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:46 245.864 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:46 245.915 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:49 248.915 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:52 251.922 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:55 254.922 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:54:58 257.922 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:01 260.822 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:01 261.021 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:04 264.022 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:07 267.022 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:10 270.022 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:13 273.022 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:16 275.822 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:17 276.922 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:20 279.922 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:23 282.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:26 285.927 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:29 288.927 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:31 290.827 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:32 291.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:35 294.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:38 297.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:41 300.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:44 303.926 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:46 305.826 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:47 306.927 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:50 309.929 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:53 312.883 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:56 315.883 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:55:59 318.883 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:01 320.833 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:03 322.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:06 325.834 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:09 328.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:12 331.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:15 334.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:16 335.833 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:18 337.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:21 340.837 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:24 343.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:27 346.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:30 349.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:31 350.838 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:33 352.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:36 355.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:39 358.837 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:42 361.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:45 364.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:46 365.838 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:48 367.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:51 370.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:54 373.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:56:57 376.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:00 379.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:01 380.848 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:03 382.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:06 385.849 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:09 388.849 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:12 391.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:15 394.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:16 395.848 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:18 397.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:21 400.802 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:24 403.801 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:27 406.803 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:30 409.802 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:31 410.852 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:31 410.978 INF [NET] PlayerConnected EntityID=-1, PlayerID='', OwnerID='', PlayerName=''
+2017-12-13T22:57:31 411.204 INF PlayerLogin: JMaster299/Alpha 16.4
+2017-12-13T22:57:31 411.205 INF Client IP: 68.104.97.111
+2017-12-13T22:57:31 411.205 INF [Steamworks.NET] Auth.AuthenticateUser()
+2017-12-13T22:57:31 411.206 INF [Steamworks.NET] Authenticating player: JMaster299 SteamId: 76561197986944512 TicketLen: 1024 Result: k_EBeginAuthSessionResultOK
+2017-12-13T22:57:31 411.503 INF [Steamworks.NET] Authentication callback. ID: 76561197986944512, owner: 76561197986944512, result: k_EAuthSessionResponseOK
+2017-12-13T22:57:31 411.503 INF Steam authentication successful, registering with EAC: EntityID=-1, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T22:57:31 411.504 INF [EAC] Registering user: EntityID=-1, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T22:57:31 411.505 INF [EAC] Log: [RegisterClient] Client: 0000000000000001 PlayerGUID: 76561197986944512 PlayerIP: 68.104.97.111 OwnerGUID: 76561197986944512 PlayerName: JMaster299
+2017-12-13T22:57:33 412.768 INF [EAC] Log: [Register Client] Success (1/2). Client: 0000000000000001
+2017-12-13T22:57:33 412.768 INF [EAC] Log: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Message: Client authenticated
+2017-12-13T22:57:33 412.802 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:33 412.804 INF [EAC] UserStatusHandler callback. Status: ClientAuthenticatedLocal ReqKick: False Message: Client authenticated
+2017-12-13T22:57:33 413.695 INF [EAC] Log: [Register Client] Success (2/2). Client: 0000000000000001
+2017-12-13T22:57:33 413.695 INF [EAC] Log: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely
+2017-12-13T22:57:33 413.702 INF [EAC] UserStatusHandler callback. Status: ClientAuthenticatedRemote ReqKick: False Message: Client authenticated remotely
+2017-12-13T22:57:33 413.703 INF EAC authentication successful, allowing user: EntityID=-1, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T22:57:33 413.703 INF Allowing player with id 76561197986944512
+2017-12-13T22:57:35 415.153 INF RequestToEnterGame: 76561197986944512/JMaster299
+2017-12-13T22:57:36 416.435 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:39 418.833 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:42 421.834 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:42 421.893 INF RequestToSpawnPlayer: 26927, JMaster299, 7
+2017-12-13T22:57:42 421.921 INF Created player with id=26927
+2017-12-13T22:57:42 422.048 INF Player connected, entityid=26927, name=JMaster299, steamid=76561197986944512, steamOwner=76561197986944512, ip=68.104.97.111
+2017-12-13T22:57:42 422.048 INF Player set to online: 76561197986944512
+2017-12-13T22:57:42 422.533 INF Executing command 'lkp steam' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:45 424.804 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:45 425.005 INF Executing command 'pm 76561197986944512"[ffff00]Welcome to lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:46 426.049 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:48 427.816 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:48 427.967 INF Executing command 'pm 76561197986944512"[ffff00]Welcome to !Worlds End PvE A16.4  [SinMod]!  Type /info, /rules or /help for commands.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:48 428.017 INF Executing command 'pm 76561197986944512"[ffff00]We have a server manager bot called Wheatly[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:48 428.067 INF Executing command 'pm 76561197986944512"[ffff00]Welcome back JMaster299! Thanks for supporting us. =D[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:49 428.817 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:49 428.866 INF Executing command 'pm 76561197986944512"[ffff00][ffff00]Welcome. Please visit www.Worldsendpve.com for a full list of rules.[-][-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:51 430.818 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:51 431.671 INF Time: 7.04m FPS: 18.98 Heap: 628.1MB Max: 628.1MB Chunks: 289 CGO: 15 Ply: 1 Zom: 2 Ent: 3 (3) Items: 0 CO: 1 RSS: 1269.4MB
+2017-12-13T22:57:52 431.980 INF GMSG: Player 'JMaster299' joined the game
+2017-12-13T22:57:52 431.981 INF PlayerSpawnedInWorld (reason: JoinMultiplayer, position: -1437, 109, -1775): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T22:57:54 433.802 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:55 435.153 INF Chat: 'JMaster299': /return
+2017-12-13T22:57:55 435.153 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /return
+2017-12-13T22:57:55 435.303 INF Executing command 'tele 76561197986944512 -8201 39 -932' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:56 436.606 INF PlayerSpawnedInWorld (reason: Teleport, position: -8201, 37, -932): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T22:57:57 436.805 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:57:57 437.060 INF Executing command 'pm 76561197986944512"[ffff00]You have left lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:00 439.811 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:01 440.839 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:03 442.812 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:06 445.802 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:09 448.822 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:12 451.845 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:15 454.849 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:16 455.856 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:18 457.840 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:21 460.847 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:22 462.005 INF Time: 7.54m FPS: 21.01 Heap: 722.7MB Max: 722.7MB Chunks: 306 CGO: 49 Ply: 1 Zom: 3 Ent: 6 (9) Items: 1 CO: 1 RSS: 1356.5MB
+2017-12-13T22:58:24 463.818 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:27 466.827 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:30 469.794 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:30 469.845 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:31 470.844 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:33 472.807 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:36 475.810 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:37 477.378 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:39 478.829 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:42 481.810 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:45 484.836 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:46 485.840 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:48 487.850 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:51 490.808 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:52 492.033 INF Time: 8.04m FPS: 20.93 Heap: 716.2MB Max: 722.7MB Chunks: 306 CGO: 40 Ply: 1 Zom: 3 Ent: 6 (9) Items: 1 CO: 1 RSS: 1373.8MB
+2017-12-13T22:58:54 493.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:58:57 496.814 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:00 499.838 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:01 500.838 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:03 502.845 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:06 505.816 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:09 508.819 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:10 510.275 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:12 511.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:15 514.807 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:16 515.861 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:18 517.826 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:22 522.080 INF Time: 8.54m FPS: 22.23 Heap: 756.7MB Max: 756.7MB Chunks: 306 CGO: 59 Ply: 1 Zom: 5 Ent: 8 (13) Items: 3 CO: 1 RSS: 1376.0MB
+2017-12-13T22:59:22 522.184 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:25 525.183 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:28 528.158 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:31 530.823 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:31 531.177 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:34 534.193 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:37 537.202 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:40 540.176 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:43 543.180 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:46 545.829 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:46 546.181 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:49 549.196 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:50 550.159 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:52 552.084 INF Time: 9.04m FPS: 20.25 Heap: 737.9MB Max: 756.7MB Chunks: 306 CGO: 37 Ply: 1 Zom: 1 Ent: 5 (7) Items: 2 CO: 1 RSS: 1378.9MB
+2017-12-13T22:59:52 552.190 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:55 555.189 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T22:59:58 558.166 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:01 560.835 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:01 561.185 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:04 564.172 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:07 567.194 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:10 570.183 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:13 573.157 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:16 575.867 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:16 576.171 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:19 579.191 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:22 582.099 INF Time: 9.54m FPS: 21.28 Heap: 792.2MB Max: 792.2MB Chunks: 306 CGO: 29 Ply: 1 Zom: 0 Ent: 4 (10) Items: 3 CO: 1 RSS: 1397.2MB
+2017-12-13T23:00:22 582.225 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:25 585.173 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:28 588.173 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:30 590.323 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:31 590.826 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:31 591.027 INF Executing command 'sa' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:31 591.145 INF Saving 49 of chunks took 59ms
+2017-12-13T23:00:31 591.296 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:34 594.547 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:39 599.469 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:39 599.519 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:42 602.510 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:45 605.517 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:46 605.917 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:48 608.511 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:51 611.473 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:52 612.140 INF Time: 10.04m FPS: 20.80 Heap: 722.8MB Max: 792.2MB Chunks: 306 CGO: 15 Ply: 1 Zom: 0 Ent: 3 (6) Items: 2 CO: 1 RSS: 1413.5MB
+2017-12-13T23:00:54 614.500 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:00:57 617.507 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:00 620.513 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:01 620.913 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:03 623.474 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:06 626.489 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:09 629.506 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:11 631.444 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:12 632.504 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:15 635.470 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:16 635.876 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:18 638.477 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:21 641.477 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:22 642.178 INF Time: 10.54m FPS: 20.37 Heap: 734.4MB Max: 792.2MB Chunks: 306 CGO: 27 Ply: 1 Zom: 0 Ent: 4 (6) Items: 1 CO: 1 RSS: 1416.0MB
+2017-12-13T23:01:24 644.486 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:27 647.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:30 650.479 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:31 650.879 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:33 653.498 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:36 656.517 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:39 659.517 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:42 662.511 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:45 665.532 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:46 665.882 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:48 668.547 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:51 671.505 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:52 672.205 INF Time: 11.04m FPS: 20.94 Heap: 793.8MB Max: 793.8MB Chunks: 306 CGO: 54 Ply: 1 Zom: 3 Ent: 8 (15) Items: 6 CO: 1 RSS: 1418.6MB
+2017-12-13T23:01:52 672.329 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:55 674.747 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:01:58 677.755 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:01 680.747 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:01 680.968 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:03 683.722 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:06 686.725 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:09 689.731 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:12 692.720 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:16 695.736 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:18 698.485 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:19 698.886 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:22 701.909 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:22 702.216 INF Time: 11.55m FPS: 20.73 Heap: 808.6MB Max: 808.6MB Chunks: 306 CGO: 67 Ply: 1 Zom: 3 Ent: 12 (18) Items: 8 CO: 1 RSS: 1427.9MB
+2017-12-13T23:02:25 704.875 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:28 707.889 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:30 710.449 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:31 710.907 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:33 713.487 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:34 713.887 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:37 716.897 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:40 720.444 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:40 720.494 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:43 723.458 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:46 726.427 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:48 728.483 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:49 729.432 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:52 732.228 INF Time: 12.05m FPS: 20.42 Heap: 725.2MB Max: 808.6MB Chunks: 306 CGO: 44 Ply: 1 Zom: 2 Ent: 7 (9) Items: 3 CO: 1 RSS: 1439.2MB
+2017-12-13T23:02:53 732.984 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:56 735.990 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:02:59 738.990 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:02 741.995 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:03 743.444 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:05 744.994 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:08 748.003 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:11 751.012 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:11 751.062 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:14 753.977 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:17 756.994 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:18 758.453 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:20 759.988 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:22 762.261 INF Time: 12.55m FPS: 21.86 Heap: 735.6MB Max: 808.6MB Chunks: 306 CGO: 51 Ply: 1 Zom: 2 Ent: 9 (12) Items: 5 CO: 1 RSS: 1451.8MB
+2017-12-13T23:03:23 763.023 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:26 765.988 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:29 769.725 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:32 772.699 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:33 773.627 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:35 775.706 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:38 778.713 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:41 781.725 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:44 784.706 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:48 787.735 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:48 788.635 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:51 790.779 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:51 791.693 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:52 792.293 INF Time: 13.05m FPS: 20.39 Heap: 753.7MB Max: 808.6MB Chunks: 306 CGO: 24 Ply: 1 Zom: 3 Ent: 3 (7) Items: 0 CO: 1 RSS: 1453.7MB
+2017-12-13T23:03:54 793.788 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:03:57 796.757 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:00 799.795 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:03 802.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:04 804.300 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:06 806.068 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:09 809.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:12 812.043 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:15 815.032 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:18 818.061 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:19 819.331 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:21 821.045 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:22 822.312 INF Time: 13.55m FPS: 24.96 Heap: 832.7MB Max: 832.7MB Chunks: 306 CGO: 54 Ply: 1 Zom: 4 Ent: 11 (17) Items: 5 CO: 1 RSS: 1471.2MB
+2017-12-13T23:04:24 824.055 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:27 827.038 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:28 828.056 INF No valid sleeper spawn locations were found, they are either all visible or are in solid space. Marking volume as cleared.
+2017-12-13T23:04:30 830.039 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:32 832.544 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:33 833.059 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:34 834.328 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:36 836.037 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:36 836.337 INF Chat: 'JMaster299': /lobby
+2017-12-13T23:04:36 836.337 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /lobby
+2017-12-13T23:04:36 836.489 INF Executing command 'tele 76561197986944512 -1448 110 -1785' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:37 837.216 INF PlayerSpawnedInWorld (reason: Teleport, position: -1448, 138, -1785): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:04:39 838.748 INF Chat: 'JMaster299': /wallet
+2017-12-13T23:04:39 838.749 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /wallet
+2017-12-13T23:04:39 838.848 INF Executing command 'pm 76561197986944512"[ffff00]You have 1788 Roopies in the bank.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:39 839.048 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:39 839.348 INF Executing command 'pm 76561197986944512"[ffff00]Welcome to lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:40 840.696 INF Executing command 'le' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:41 840.746 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:42 842.048 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:45 845.050 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:48 848.057 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:49 849.320 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:51 851.069 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:52 852.348 INF Time: 14.05m FPS: 20.93 Heap: 736.0MB Max: 832.7MB Chunks: 314 CGO: 15 Ply: 1 Zom: 2 Ent: 3 (5) Items: 0 CO: 1 RSS: 1472.7MB
+2017-12-13T23:04:54 854.058 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:04:57 857.058 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:00 860.062 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:03 863.064 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:04 864.317 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:06 866.066 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:09 869.069 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:13 873.471 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:13 873.522 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:16 876.424 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:19 879.325 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:19 879.476 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:22 882.378 INF Time: 14.55m FPS: 20.19 Heap: 800.7MB Max: 832.7MB Chunks: 314 CGO: 15 Ply: 1 Zom: 2 Ent: 3 (5) Items: 0 CO: 1 RSS: 1479.8MB
+2017-12-13T23:05:22 882.513 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:25 885.462 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:28 888.466 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:31 891.465 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:34 894.321 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:34 894.472 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:37 897.471 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:39 899.523 INF Chat: 'JMaster299': /return
+2017-12-13T23:05:39 899.523 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /return
+2017-12-13T23:05:40 899.777 INF Executing command 'tele 76561197986944512 -7552 51 -524' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:40 900.498 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:41 900.769 INF Executing command 'pm 76561197986944512"[ffff00]You have left lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:42 901.898 INF Chat: 'JMaster299': /wallet
+2017-12-13T23:05:42 901.898 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /wallet
+2017-12-13T23:05:42 901.899 INF PlayerSpawnedInWorld (reason: Teleport, position: -7552, 50, -524): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:05:42 902.011 INF Executing command 'pm 76561197986944512"[ffff00]You have 1788 Roopies in the bank.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:43 903.487 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:46 906.470 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:49 909.294 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:51 911.644 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:52 912.382 INF Time: 15.05m FPS: 25.74 Heap: 792.3MB Max: 832.7MB Chunks: 334 CGO: 66 Ply: 1 Zom: 4 Ent: 13 (17) Items: 5 CO: 1 RSS: 1505.1MB
+2017-12-13T23:05:53 913.604 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:54 914.636 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:05:57 917.648 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:00 920.601 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:03 923.634 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:04 924.339 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:06 926.645 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:09 929.636 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:12 932.633 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:15 935.603 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:18 938.610 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:19 939.323 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:21 941.617 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:22 942.429 INF Time: 15.55m FPS: 26.18 Heap: 803.0MB Max: 832.7MB Chunks: 334 CGO: 59 Ply: 1 Zom: 4 Ent: 11 (16) Items: 5 CO: 1 RSS: 1504.2MB
+2017-12-13T23:06:24 944.620 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:29 948.849 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:32 951.834 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:34 954.308 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:35 954.834 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:35 954.887 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:36 956.082 INF Spawning sleeper zombie from sleeperHordeStageGS1217
+2017-12-13T23:06:36 956.671 INF Spawning sleeper zombie from sleeperHordeStageGS1217
+2017-12-13T23:06:38 957.848 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:41 960.803 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:41 961.551 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:44 963.816 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:47 966.845 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:49 969.308 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:50 969.841 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:52 972.473 INF Time: 16.05m FPS: 36.72 Heap: 737.8MB Max: 832.7MB Chunks: 334 CGO: 86 Ply: 1 Zom: 5 Ent: 13 (16) Items: 4 CO: 1 RSS: 1517.8MB
+2017-12-13T23:06:53 972.847 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:56 975.836 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:06:59 978.827 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:02 981.803 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:04 984.660 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:05 985.077 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:08 988.073 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:11 991.067 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:14 994.049 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:14 994.661 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:17 997.088 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:19 999.703 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:20 1000.053 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:22 1002.476 INF Time: 16.55m FPS: 22.04 Heap: 811.1MB Max: 832.7MB Chunks: 334 CGO: 47 Ply: 1 Zom: 3 Ent: 6 (20) Items: 6 CO: 1 RSS: 1529.9MB
+2017-12-13T23:07:23 1003.081 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:26 1006.076 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:29 1009.098 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:32 1012.051 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:34 1014.674 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:35 1015.074 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:35 1015.260 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:36 1015.800 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:36 1016.496 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:37 1017.198 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:38 1017.842 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:38 1018.063 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:38 1018.545 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:39 1019.197 INF Spawning sleeper zombie from SnowZombies
+2017-12-13T23:07:41 1021.052 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:44 1024.071 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:47 1027.060 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:49 1029.703 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:50 1030.088 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:52 1032.498 INF Time: 17.05m FPS: 37.93 Heap: 795.8MB Max: 832.7MB Chunks: 334 CGO: 57 Ply: 1 Zom: 10 Ent: 13 (16) Items: 0 CO: 1 RSS: 1530.0MB
+2017-12-13T23:07:53 1033.096 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:55 1034.900 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:56 1036.064 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:07:59 1039.064 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:02 1042.079 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:04 1044.694 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:05 1045.081 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:08 1048.060 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:11 1051.050 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:14 1054.253 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:17 1057.284 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:19 1059.678 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:20 1060.379 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:23 1062.744 INF Time: 17.55m FPS: 26.16 Heap: 891.3MB Max: 891.3MB Chunks: 334 CGO: 54 Ply: 1 Zom: 9 Ent: 13 (16) Items: 0 CO: 1 RSS: 1579.6MB
+2017-12-13T23:08:23 1063.270 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:26 1066.249 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:29 1069.357 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:32 1072.265 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:35 1074.880 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:35 1074.900 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:36 1075.755 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:38 1078.568 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:41 1081.296 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:42 1081.832 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:45 1084.831 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:47 1087.278 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:50 1089.960 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:50 1090.431 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:53 1093.282 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:57 1097.147 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:08:59 1099.688 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:02 1102.276 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:02 1102.440 INF Time: 18.05m FPS: 16.91 Heap: 781.5MB Max: 891.3MB Chunks: 334 CGO: 45 Ply: 1 Zom: 5 Ent: 12 (14) Items: 0 CO: 1 RSS: 1690.5MB
+2017-12-13T23:09:04 1104.670 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:05 1105.264 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:08 1108.278 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:11 1111.267 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:14 1114.320 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:14 1114.489 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:17 1117.277 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:19 1119.668 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:23 1123.469 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:26 1126.450 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:29 1129.461 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:32 1132.448 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:32 1132.449 INF Time: 18.55m FPS: 26.87 Heap: 908.1MB Max: 908.1MB Chunks: 334 CGO: 38 Ply: 1 Zom: 5 Ent: 9 (21) Items: 4 CO: 1 RSS: 1611.3MB
+2017-12-13T23:09:34 1134.678 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:35 1135.484 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:38 1138.476 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:41 1141.464 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:44 1144.448 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:47 1147.568 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:49 1149.707 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:50 1150.469 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:53 1153.445 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:55 1155.488 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:09:57 1157.579 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:00 1160.169 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:03 1163.183 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:04 1164.693 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:06 1166.160 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:07 1166.861 INF Time: 19.05m FPS: 16.52 Heap: 813.7MB Max: 908.1MB Chunks: 334 CGO: 39 Ply: 1 Zom: 3 Ent: 14 (16) Items: 8 CO: 1 RSS: 1655.6MB
+2017-12-13T23:10:09 1169.196 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:12 1172.194 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:15 1175.198 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:18 1178.205 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:19 1179.659 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:21 1181.185 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:24 1184.202 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:27 1187.168 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:30 1190.175 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:33 1193.207 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:34 1194.675 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:36 1195.996 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:36 1196.197 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:37 1196.867 INF Time: 19.55m FPS: 21.59 Heap: 902.7MB Max: 908.1MB Chunks: 334 CGO: 42 Ply: 1 Zom: 3 Ent: 36 (42) Items: 34 CO: 1 RSS: 1618.7MB
+2017-12-13T23:10:39 1199.178 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:43 1203.725 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:44 1203.776 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:47 1207.195 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:49 1209.705 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:50 1210.183 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:53 1213.183 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:56 1216.184 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:10:59 1219.157 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:02 1222.188 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:05 1225.053 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:05 1225.303 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:07 1226.913 INF Time: 20.05m FPS: 21.40 Heap: 785.3MB Max: 908.1MB Chunks: 334 CGO: 42 Ply: 1 Zom: 3 Ent: 63 (66) Items: 59 CO: 1 RSS: 1631.7MB
+2017-12-13T23:11:08 1228.295 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:11 1231.318 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:14 1234.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:15 1235.068 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:17 1237.305 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:20 1240.061 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:20 1240.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:23 1243.317 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:26 1246.323 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:29 1249.314 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:32 1252.285 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:35 1255.067 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:35 1255.366 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:37 1256.920 INF Time: 20.55m FPS: 22.18 Heap: 873.4MB Max: 908.1MB Chunks: 334 CGO: 42 Ply: 1 Zom: 3 Ent: 39 (71) Items: 61 CO: 1 RSS: 1631.9MB
+2017-12-13T23:11:38 1258.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:41 1261.404 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:44 1264.366 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:47 1267.366 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:50 1270.046 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:50 1270.396 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:52 1272.377 INF Spawning sleeper zombie from sleeperHordeStageGS1710
+2017-12-13T23:11:53 1273.087 INF Spawning sleeper zombie from sleeperHordeStageGS1710
+2017-12-13T23:11:53 1273.364 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:55 1275.386 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:56 1276.406 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:11:59 1279.374 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:02 1282.396 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:05 1285.085 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:05 1285.385 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:08 1288.093 INF Time: 21.05m FPS: 15.17 Heap: 806.8MB Max: 908.1MB Chunks: 334 CGO: 39 Ply: 1 Zom: 3 Ent: 9 (12) Items: 4 CO: 1 RSS: 1647.0MB
+2017-12-13T23:12:12 1292.007 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:15 1295.010 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:18 1298.016 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:20 1300.069 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:21 1301.019 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:24 1304.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:27 1307.029 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:30 1310.016 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:33 1312.985 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:34 1314.205 INF Chat: 'JMaster299': /lobby
+2017-12-13T23:12:34 1314.205 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /lobby
+2017-12-13T23:12:34 1314.354 INF Executing command 'tele 76561197986944512 -1447 110 -1788' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:35 1315.068 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:35 1315.223 INF PlayerSpawnedInWorld (reason: Teleport, position: -1447, 138, -1788): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:12:36 1315.994 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:36 1316.042 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:36 1316.395 INF Executing command 'pm 76561197986944512"[ffff00]Welcome to lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:38 1318.100 INF Time: 21.55m FPS: 20.63 Heap: 844.9MB Max: 908.1MB Chunks: 334 CGO: 15 Ply: 1 Zom: 2 Ent: 3 (5) Items: 0 CO: 1 RSS: 1631.2MB
+2017-12-13T23:12:39 1319.007 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:42 1321.983 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:44 1324.633 INF Executing command 'le' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:44 1324.683 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:45 1324.983 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:48 1327.986 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:50 1330.089 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:51 1330.997 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:54 1334.007 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:12:57 1337.012 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:00 1340.014 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:03 1343.014 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:05 1345.066 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:06 1346.018 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:08 1348.148 INF Time: 22.05m FPS: 20.19 Heap: 811.9MB Max: 908.1MB Chunks: 334 CGO: 15 Ply: 1 Zom: 2 Ent: 3 (5) Items: 0 CO: 1 RSS: 1631.2MB
+2017-12-13T23:13:09 1349.003 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:12 1352.008 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:15 1355.010 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:15 1355.562 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:22 1362.370 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:22 1362.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:23 1363.723 INF Chat: 'JMaster299': /return
+2017-12-13T23:13:23 1363.723 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /return
+2017-12-13T23:13:24 1363.873 INF Executing command 'tele 76561197986944512 -7217 145 -550' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:24 1364.567 INF PlayerSpawnedInWorld (reason: Teleport, position: -7217, 149, -550): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:13:25 1365.377 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:25 1365.630 INF Executing command 'pm 76561197986944512"[ffff00]You have left lobby[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:28 1368.336 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:31 1371.371 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:34 1374.372 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:37 1377.335 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:37 1377.386 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:38 1378.186 INF Time: 22.55m FPS: 22.18 Heap: 843.6MB Max: 908.1MB Chunks: 334 CGO: 39 Ply: 1 Zom: 3 Ent: 6 (9) Items: 2 CO: 1 RSS: 1631.2MB
+2017-12-13T23:13:40 1380.344 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:43 1383.351 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:46 1386.376 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:49 1389.369 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:52 1392.378 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:52 1392.428 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:55 1395.684 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:57 1397.460 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:13:58 1398.666 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:01 1401.689 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:04 1404.693 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:07 1407.344 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:07 1407.645 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:08 1408.196 INF Time: 23.05m FPS: 20.37 Heap: 949.4MB Max: 949.4MB Chunks: 334 CGO: 44 Ply: 1 Zom: 3 Ent: 7 (11) Items: 4 CO: 1 RSS: 1631.2MB
+2017-12-13T23:14:10 1410.678 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:13 1413.667 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:16 1416.676 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:19 1419.660 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:22 1422.382 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:22 1422.682 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:25 1425.686 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:28 1428.689 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:31 1431.651 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:34 1434.654 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:35 1435.653 INF Chat: 'JMaster299': /setbase2
+2017-12-13T23:14:35 1435.654 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /setbase2
+2017-12-13T23:14:36 1435.803 INF Executing command 'pm 76561197986944512"[ffff00]This is the location of your 2nd base.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:37 1436.954 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:37 1437.353 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:37 1437.657 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:38 1438.207 INF Time: 23.55m FPS: 20.38 Heap: 865.8MB Max: 949.4MB Chunks: 334 CGO: 44 Ply: 1 Zom: 3 Ent: 6 (10) Items: 3 CO: 1 RSS: 1631.2MB
+2017-12-13T23:14:40 1440.690 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:43 1443.658 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:45 1445.009 INF Executing command 'llp 76561197986944512 parseable' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:46 1446.661 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:49 1449.664 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:52 1452.365 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:52 1452.668 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:55 1455.672 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:14:58 1458.654 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:01 1461.677 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:04 1464.676 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:07 1467.426 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:07 1467.652 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:08 1468.253 INF Time: 24.06m FPS: 20.53 Heap: 785.6MB Max: 949.4MB Chunks: 334 CGO: 30 Ply: 1 Zom: 2 Ent: 4 (9) Items: 1 CO: 1 RSS: 1631.2MB
+2017-12-13T23:15:09 1469.058 INF Chat: 'JMaster299': /wallet
+2017-12-13T23:15:09 1469.058 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /wallet
+2017-12-13T23:15:09 1469.159 INF Executing command 'pm 76561197986944512"[ffff00]You have 1838 Roopies in the bank.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:10 1470.668 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:13 1473.660 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:16 1476.673 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:17 1477.422 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:18 1478.622 INF Chat: 'JMaster299': /setbase2
+2017-12-13T23:15:18 1478.622 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /setbase2
+2017-12-13T23:15:19 1478.772 INF Executing command 'pm 76561197986944512"[ffff00]This is the location of your 2nd base.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:19 1479.672 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:21 1480.772 INF Chat: 'JMaster299': /wallet
+2017-12-13T23:15:21 1480.772 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /wallet
+2017-12-13T23:15:21 1480.873 INF Executing command 'pm 76561197986944512"[ffff00]You have 1838 Roopies in the bank.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:22 1482.422 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:22 1482.673 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:25 1485.672 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:28 1488.680 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:31 1491.680 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:34 1494.679 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:37 1497.436 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:37 1497.693 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:38 1498.294 INF Time: 24.56m FPS: 20.00 Heap: 877.8MB Max: 949.4MB Chunks: 334 CGO: 32 Ply: 1 Zom: 2 Ent: 4 (9) Items: 1 CO: 1 RSS: 1631.1MB
+2017-12-13T23:15:40 1500.683 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:41 1501.333 INF Chat: 'JMaster299': /base
+2017-12-13T23:15:41 1501.333 INF GameMessage handled by mod 'Coppis command additions': Chat: 'JMaster299': /base
+2017-12-13T23:15:41 1501.533 INF Executing command 'pm 76561197986944512"[FFA500]25 Roopies has been removed from your cash.[-]"' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:41 1501.583 INF Executing command 'tele 76561197986944512 -667 57 -2133' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:43 1502.919 INF PlayerSpawnedInWorld (reason: Teleport, position: -667, 66, -2133): EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:15:43 1503.688 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:46 1506.671 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:49 1509.671 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:52 1512.422 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:53 1512.771 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:56 1516.664 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:59 1519.266 INF Executing command 'si 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:15:59 1519.616 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:02 1522.646 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:05 1525.647 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:07 1527.398 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:08 1528.299 INF Time: 25.06m FPS: 19.88 Heap: 895.2MB Max: 949.4MB Chunks: 418 CGO: 14 Ply: 1 Zom: 0 Ent: 2 (6) Items: 0 CO: 1 RSS: 1631.4MB
+2017-12-13T23:16:08 1528.621 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:11 1531.622 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:15 1535.321 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:18 1538.321 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:18 1538.323 INF Player JMaster299 disconnected after 18.3 minutes
+2017-12-13T23:16:18 1538.405 INF Player set to offline: 76561197986944512
+2017-12-13T23:16:18 1538.412 INF Player disconnected: EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:16:18 1538.412 INF [EAC] FreeUser: EntityID=26927, PlayerID='76561197986944512', OwnerID='76561197986944512', PlayerName='JMaster299'
+2017-12-13T23:16:18 1538.413 INF [EAC] Log: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 76561197986944512
+2017-12-13T23:16:18 1538.413 INF GMSG: Player 'JMaster299' left the game
+2017-12-13T23:16:18 1538.705 INF Executing command 'llp 76561197986944512' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:21 1541.306 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:22 1542.406 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:24 1544.306 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:26 1546.306 INF Clearing all pools
+2017-12-13T23:16:27 1547.328 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:30 1550.328 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:33 1553.328 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:36 1556.327 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:37 1557.427 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:38 1558.328 INF Time: 25.56m FPS: 20.00 Heap: 826.2MB Max: 949.4MB Chunks: 418 CGO: 0 Ply: 0 Zom: 0 Ent: 0 (6) Items: 0 CO: 0 RSS: 1631.3MB
+2017-12-13T23:16:39 1559.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:42 1562.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:45 1565.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:48 1568.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:51 1571.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:52 1572.433 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:54 1574.333 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:16:57 1577.333 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:00 1580.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:03 1583.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:06 1586.334 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:07 1587.434 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:09 1589.305 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:12 1592.355 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:15 1595.354 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:18 1598.355 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:21 1601.355 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:22 1602.405 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:24 1604.355 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:27 1607.355 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:30 1610.305 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:33 1613.354 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:36 1616.354 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:37 1617.404 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:39 1619.309 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:42 1622.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:45 1625.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:48 1628.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:51 1631.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:52 1632.409 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:54 1634.309 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:17:57 1637.309 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:00 1640.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:03 1643.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:06 1646.310 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:07 1647.409 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:09 1649.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:12 1652.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:15 1655.314 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:18 1658.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:21 1661.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:22 1662.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:24 1664.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:27 1667.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:30 1670.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:33 1673.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:36 1676.315 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:37 1677.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:39 1679.321 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:42 1682.321 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:45 1685.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:48 1688.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:51 1691.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:52 1692.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:54 1694.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:18:57 1697.421 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:00 1700.421 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:03 1703.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:06 1706.420 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:07 1707.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:09 1709.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:12 1712.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:15 1715.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:18 1718.393 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:21 1721.393 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:22 1722.443 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:24 1724.393 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:27 1727.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:30 1730.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:33 1733.392 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:36 1736.394 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:37 1737.443 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:39 1739.397 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:42 1742.397 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:45 1745.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:48 1748.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:51 1751.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:52 1752.447 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:54 1754.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:19:57 1757.498 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:00 1760.498 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:03 1763.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:06 1766.497 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:07 1767.447 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:09 1769.501 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:12 1772.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:15 1775.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:18 1778.501 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:21 1781.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:22 1782.402 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:24 1784.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:27 1787.501 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:30 1790.501 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:33 1793.501 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:36 1796.502 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:37 1797.402 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:39 1799.507 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:42 1802.507 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:45 1805.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:48 1808.606 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:51 1811.606 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:52 1812.407 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:54 1814.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:20:57 1817.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:00 1820.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:03 1823.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:06 1826.607 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:07 1827.407 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:09 1829.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:12 1832.576 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:15 1835.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:18 1838.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:21 1841.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:22 1842.427 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:24 1844.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:27 1847.576 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:30 1850.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:33 1853.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:36 1856.577 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:37 1857.427 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:39 1859.581 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:42 1862.581 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:45 1865.681 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:48 1868.681 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:51 1871.681 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:52 1872.431 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:55 1874.782 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:21:58 1877.781 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:01 1880.781 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:04 1883.781 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:07 1886.781 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:07 1887.431 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:10 1889.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:13 1892.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:16 1895.787 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:19 1898.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:22 1901.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:22 1902.436 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:25 1904.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:28 1907.787 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:31 1910.786 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:34 1913.787 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:37 1916.787 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:37 1917.437 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:40 1919.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:43 1922.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:46 1925.841 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:49 1928.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:52 1931.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:52 1932.442 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:55 1934.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:22:58 1937.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:01 1940.842 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:04 1943.841 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:07 1946.841 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:07 1947.441 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:10 1949.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:13 1952.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:16 1955.816 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:19 1958.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:22 1961.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:22 1962.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:25 1964.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:28 1967.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:31 1970.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:34 1973.815 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:37 1976.816 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:37 1977.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:40 1979.821 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:43 1982.820 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:46 1986.070 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:49 1989.070 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:52 1992.071 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:52 1992.421 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:55 1995.071 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:23:58 1998.071 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:01 2001.071 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:04 2004.070 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:07 2007.070 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:07 2007.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:10 2010.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:13 2013.076 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:16 2016.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:19 2019.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:22 2022.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:22 2022.425 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:25 2025.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:28 2028.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:31 2031.076 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:34 2034.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:37 2037.075 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:37 2037.425 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:40 2040.080 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:43 2043.079 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:48 2048.079 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:51 2051.080 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:52 2052.430 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:54 2054.080 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:24:57 2057.080 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:00 2060.080 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:03 2063.079 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:06 2066.079 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:07 2067.429 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:09 2069.054 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:12 2072.055 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:15 2075.054 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:18 2078.054 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:21 2081.054 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:22 2082.404 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:24 2084.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:27 2087.605 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:30 2090.605 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:33 2093.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:36 2096.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:37 2097.404 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:39 2099.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:42 2102.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:45 2105.608 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:48 2108.608 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:51 2111.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:52 2112.409 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:54 2114.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:25:57 2117.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:00 2120.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:03 2123.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:06 2126.559 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:07 2127.408 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:09 2129.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:12 2132.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:15 2135.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:18 2138.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:21 2141.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:22 2142.414 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:24 2144.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:27 2147.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:30 2150.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:33 2153.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:36 2156.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:37 2157.414 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:39 2159.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:42 2162.568 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:45 2165.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:48 2168.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:51 2171.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:52 2172.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:54 2174.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:26:57 2177.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:00 2180.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:03 2183.568 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:06 2186.569 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:07 2187.420 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:09 2189.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:12 2192.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:15 2195.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:18 2198.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:21 2201.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:22 2202.448 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:24 2204.598 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:27 2207.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:30 2210.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:33 2213.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:36 2216.599 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:37 2217.449 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:39 2219.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:42 2222.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:45 2225.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:48 2228.605 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:51 2231.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:52 2232.405 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:54 2234.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:27:57 2237.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:00 2240.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:03 2243.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:06 2246.604 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:07 2247.405 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:09 2249.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:12 2252.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:15 2255.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:18 2258.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:21 2261.608 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:22 2262.408 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:24 2264.608 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:27 2267.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:30 2270.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:33 2273.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:36 2276.609 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:37 2277.409 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:39 2279.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:42 2282.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:45 2285.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:48 2288.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:51 2291.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:52 2292.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:54 2294.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:28:57 2297.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:00 2300.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:03 2303.564 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:06 2306.565 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:07 2307.415 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:09 2309.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:12 2312.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:15 2315.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:18 2318.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:21 2321.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:22 2322.437 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:24 2324.588 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:27 2327.588 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:30 2330.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:33 2333.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:36 2336.587 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:37 2337.437 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:39 2339.591 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:42 2342.592 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:45 2345.592 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:49 2348.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:52 2351.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:52 2352.442 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:55 2354.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:29:58 2357.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:01 2360.791 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:04 2363.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:07 2366.792 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:07 2367.442 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:10 2369.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:13 2372.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:16 2375.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:19 2378.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:22 2381.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:22 2382.447 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:25 2384.797 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:28 2387.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:31 2390.796 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:31 2391.046 INF Executing command 'sa' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:31 2391.120 INF Saving 0 of chunks took 19ms
+2017-12-13T23:30:34 2393.771 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:37 2396.771 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:37 2397.421 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:40 2399.776 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:43 2402.776 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:46 2405.777 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:49 2409.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:52 2412.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:52 2412.426 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:55 2415.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:30:58 2418.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:01 2421.025 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:04 2424.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:07 2427.026 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:07 2427.426 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:10 2429.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:13 2432.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:16 2435.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:19 2438.990 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:22 2441.990 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:22 2442.441 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:25 2444.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:28 2447.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:31 2450.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:34 2453.991 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:37 2456.990 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:37 2457.441 INF Executing command 'gt' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:40 2459.995 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:43 2462.996 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:46 2465.996 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:49 2469.146 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:52 2472.145 INF Executing command 'lp' by Telnet from 192.99.200.59:55864
+2017-12-13T23:31:52 2472.445 INF Executing command 'gt' by Telnet from 19
