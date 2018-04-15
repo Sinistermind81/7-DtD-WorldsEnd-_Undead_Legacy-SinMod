@@ -1397,6 +1397,7 @@ group desc for stuff like metal siding
     <property name="Texture" value="176" />
     <!-- <property name="ImposterExchange" value="imposterBlock" param1="2"/> -->
     <property name="CreativeMode" value="None" />
+    <property name="CanPickup" value="true" />
     <property class="RepairItems">
       <property name="concreteMix" value="8" />
     </property>

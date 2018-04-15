@@ -3134,6 +3134,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
     <ingredient name="partsPistol_receiver" count="1" />
     <ingredient name="partsPistol_grip" count="1" />
   </recipe>
+  <!--End SinMod Weapons Expansion-->
 
   <!--SinMod Ammo Expansion-->
   <recipe name="HollowTip" count="1" craft_area="forge" craft_tool="anvil" material_based="true">
@@ -3183,8 +3184,10 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
   <recipe name="bioTank" count="25" craft_area="chemistryStation">
     <ingredient name="rottingFlesh" count="25"/>
   </recipe>
+  <!--End SinMod Ammo Expansion-->
   
-  <recipe name="HealingDart" count="25">
+  
+    <recipe name="HealingDart" count="25">
     <ingredient name="steelDart" count="25" />
     <ingredient name="healingAgent" count="1" />
   </recipe>
@@ -3208,21 +3211,9 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
     <ingredient name="rottingFlesh" count="5"/>
       <ingredient name="bottledWater" count="1"/>
   </recipe>
-    
-  <!--SinMod Traps Expansion-->
-  <recipe name="trapAdhesive" count="1">
-    <ingredient name="wood" count="10"/>
-    <ingredient name="glue" count="4"/>
-  </recipe>
-  <recipe name="trapFire" count="2">
-    <ingredient name="forgedSteel" count="8" />
-    <ingredient name="cookingGrill" count="1" />
-    <ingredient name="gasCan" count="1" />
-  </recipe>
-
-  <recipe name="charcoalChips" count="1" craft_area="campfire" craft_tool="cookingPot">
+    <recipe name="charcoalChips" count="1" craft_area="campfire" craft_tool="cookingPot">
     <ingredient name="wood" count="3"/>
-  </recipe>
+  </recipe>  
   <recipe name="clayBucket" count="1" craft_area="campfire">
     <ingredient name="clayLump" count="30"/>
   </recipe>
@@ -3237,6 +3228,18 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
   <recipe name="survivorNoteCollection" count="1" craft_time="0.5">
     <ingredient name="survivorNotes" count="5"/>
   </recipe>
+  
+  <!--SinMod Traps Expansion-->
+  <recipe name="trapAdhesive" count="1">
+    <ingredient name="wood" count="10"/>
+    <ingredient name="glue" count="4"/>
+  </recipe>
+  <recipe name="trapFire" count="2">
+    <ingredient name="forgedSteel" count="8" />
+    <ingredient name="cookingGrill" count="1" />
+    <ingredient name="gasCan" count="1" />
+  </recipe>
+  <!--End SinMod Traps Expansion-->
 
   <!--SinMod Ultimate Champion-->
   <recipe name="UltimateChampionVoucher" count="1"  craft_time="0.5">
@@ -3310,6 +3313,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
   <recipe name="ShotgunShellVoucher" count="1" craft_time="0.5">
     <ingredient name="AmmoChampVoucher" count="1"/>
   </recipe>
+  <!--End SinMod Ultimate Champion-->
   
   
   <!--SinMod Ammo Dismantle -->
@@ -3397,5 +3401,6 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
     <ingredient name="unit_clay" count="100"/>
     <ingredient name="unit_iron" count="500"/>
   </recipe>
+  <!--End Sinmod Fishing-->
   
 </recipes>
